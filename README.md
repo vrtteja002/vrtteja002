@@ -6,35 +6,30 @@ Hello! I'm Ravi, an AI/ML Engineer passionate about pushing the boundaries of ar
 - 🚀 Experienced in developing cutting-edge AI/ML applications
 - 🌱 Always learning and exploring new technologies in the AI space
   
-## 🛠 Technical Skills
+## 🛠 Technologies I Use
 
-```mermaid
-graph TD
-    A[Ravi's Skills] --> B[Languages]
-    A --> C[ML/DL Frameworks]
-    A --> D[AI/NLP]
-    A --> E[Computer Vision]
-    A --> F[Cloud]
-    
-    B --> B1[Python]
-    B --> B2[C]
-    B --> B3[C++]
-    
-    C --> C1[PyTorch]
-    C --> C2[TensorFlow]
-    C --> C3[Scikit-Learn]
-    C --> C3[OpenCV]
-    
-    D --> D1[LangChain]
-    D --> D2[Large Language Models]
-    D --> D3[RAG Pipelines]
-    D --> D4[Generative AI]
-    
-    
-    F --> F1[AWS]
-    F --> F2[Google Cloud]
-    F --> F3[Azure]
-```
+<table>
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" alt="Python"/><br>Python</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="60" alt="C"/><br>C</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="60" alt="C++"/><br>C++</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="60" alt="PyTorch"/><br>PyTorch</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="60" alt="TensorFlow"/><br>TensorFlow</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="60" alt="Scikit-learn"/><br>Scikit-learn</td>
+    <td align="center"><img src="https://opencv.org/wp-content/uploads/2022/05/logo.png" width="60" alt="OpenCV"/><br>OpenCV</td>
+    <td align="center"><img src="https://www.vectorlogo.zone/logos/langchain/langchain-icon.svg" width="60" alt="LangChain"/><br>LangChain</td>
+    <td align="center"><img src="https://img.icons8.com/color/96/000000/artificial-intelligence.png" width="60" alt="Large Language Models"/><br>LLMs</td>
+    <td align="center"><img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/000000/external-machine-learning-computer-science-flaticons-flat-flat-icons.png" width="60" alt="RAG Pipelines"/><br>RAG Pipelines</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://img.icons8.com/color/96/000000/creative.png" width="60" alt="Generative AI"/><br>Generative AI</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="60" alt="AWS"/><br>AWS</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="60" alt="Google Cloud"/><br>Google Cloud</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="60" alt="Azure"/><br>Azure</td>
+  </tr>
+</table>
 
 ## 🏅 Certifications
 
