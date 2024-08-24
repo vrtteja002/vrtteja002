@@ -31,15 +31,13 @@ graph TD
     C --> C1[PyTorch]
     C --> C2[TensorFlow]
     C --> C3[Scikit-Learn]
+    C --> C3[OpenCV]
     
     D --> D1[LangChain]
     D --> D2[Large Language Models]
-    D --> D3[CLIP]
+    D --> D3[RAG Pipelines]
     D --> D4[Generative AI]
     
-    E --> E1[OpenCV]
-    E --> E2[YOLOv8]
-    E --> E3[YOLOv9]
     
     F --> F1[AWS]
     F --> F2[Google Cloud]
