@@ -5,11 +5,6 @@ Hello! I'm Ravi, an AI/ML Engineer passionate about pushing the boundaries of ar
 - 🎓 Pursuing M.S. in Computer Science at Kansas State University
 - 🚀 Experienced in developing cutting-edge AI/ML applications
 - 🌱 Always learning and exploring new technologies in the AI space
-
-## 🎓 Education
-
-- **Master of Science in Computer Science**
-  Kansas State University, Manhattan, Kansas
   
 ## 🛠 Technical Skills
 
