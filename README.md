@@ -1,7 +1,3 @@
-# Ravi Teja Vempati - AI/ML Portfolio
-
-![AI Banner](https://via.placeholder.com/800x200?text=AI+%7C+ML+%7C+Computer+Vision)
-
 ## 👨‍💻 About Me
 
 Hello! I'm Ravi, an AI/ML Engineer passionate about pushing the boundaries of artificial intelligence and machine learning. With a strong foundation in computer vision, natural language processing, and deep learning, I'm on a mission to develop innovative AI solutions that tackle real-world challenges.
