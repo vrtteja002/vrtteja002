@@ -9,11 +9,8 @@ Hello! I'm Ravi, an AI/ML Engineer passionate about pushing the boundaries of ar
 ## 🎓 Education
 
 - **Master of Science in Computer Science**
-  Kansas State University, Manhattan, Kansas (Expected Dec 2024)
+  Kansas State University, Manhattan, Kansas
   
-- **Bachelor of Technology in Computer Science**
-  Vellore Institute of Technology, Chennai, India (Aug 2022)
-
 ## 🛠 Technical Skills
 
 ```mermaid
