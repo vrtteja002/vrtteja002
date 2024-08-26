@@ -7,7 +7,6 @@ Hello! I'm Ravi, an aspiring AI/ML Engineer passionate about pushing the boundar
 - 🌱 Always learning and exploring new technologies in the AI space
   
 ## 🛠 Technologies I Use
-
 <table>
   <tr>
     <td align="center">
@@ -34,21 +33,35 @@ Hello! I'm Ravi, an aspiring AI/ML Engineer passionate about pushing the boundar
       <img src="https://opencv.org/wp-content/uploads/2022/05/logo.png" width="60" alt="OpenCV"/><br>OpenCV
     </td>
     <td align="center">
-      <img src="https://www.vectorlogo.zone/logos/langchain/langchain-icon.svg" width="60" alt="LangChain"/><br>LangChain
+      <img src="https://www.langchain.com/favicon.svg" width="60" alt="LangChain"/><br>LangChain
     </td>
     <td align="center">
       <img src="https://img.icons8.com/color/96/000000/artificial-intelligence.png" width="60" alt="Large Language Models"/><br>LLMs
     </td>
     <td align="center">
-      <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/000000/external-machine-learning-computer-science-flaticons-flat-flat-icons.png" width="60" alt="RAG Pipelines"/><br>RAG Pipelines
+      <svg xmlns="http://www.w3.org/2000/svg" width="60" height="60" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M4 19.5v-15A2.5 2.5 0 0 1 6.5 2H20v20H6.5a2.5 2.5 0 0 1-2.5-2.5Z"></path>
+        <path d="M6.5 7h11"></path>
+        <path d="M6.5 11h5.5"></path>
+        <path d="M6.5 15h5.5"></path>
+        <circle cx="18" cy="11.5" r="2.5"></circle>
+        <path d="m15.5 13.5 2.5 3"></path>
+        <path d="M8 22h8"></path>
+      </svg>
+      <br>RAG Pipelines
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://img.icons8.com/color/96/000000/creative.png" width="60" alt="Generative AI"/><br>Generative AI
+      <svg xmlns="http://www.w3.org/2000/svg" width="60" height="60" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z"></path>
+        <polyline points="3.27 6.96 12 12.01 20.73 6.96"></polyline>
+        <line x1="12" y1="22.08" x2="12" y2="12"></line>
+      </svg>
+      <br>Generative AI
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="60" alt="AWS"/><br>AWS
+      <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" width="60" alt="AWS"/><br>AWS
     </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="60" alt="Google Cloud"/><br>Google Cloud
