@@ -7,7 +7,6 @@ Hello! I'm Ravi, an aspiring AI/ML Engineer passionate about pushing the boundar
 - 🌱 Always learning and exploring new technologies in the AI space
   
 ## 🛠 Technologies I Use
-# Technology Skills
 
 <table>
   <tr>
