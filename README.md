@@ -1,6 +1,6 @@
 ## 👨‍💻 About Me
 
-Hello! I'm Ravi, an AI/ML Engineer passionate about pushing the boundaries of artificial intelligence and machine learning. With a strong foundation in computer vision, natural language processing, and deep learning, I'm on a mission to develop innovative AI solutions that tackle real-world challenges.
+Hello! I'm Ravi, an aspiring AI/ML Engineer passionate about pushing the boundaries of artificial intelligence and machine learning. With a strong foundation in computer vision, natural language processing, and deep learning, I'm on a mission to develop innovative AI solutions that tackle real-world challenges.
 
 - 🎓 Pursuing M.S. in Computer Science at Kansas State University
 - 🚀 Experienced in developing cutting-edge AI/ML applications
