@@ -173,12 +173,6 @@ Hello! I'm Ravi, an aspiring AI/ML Engineer passionate about pushing the boundar
   }
 </style>
 
-<script>
-  document.querySelectorAll('table img, table svg').forEach(element => {
-    element.classList.add('animated-logo');
-  });
-</script>
-
 ## 🏅 Certifications
 
 - OCI Generative-AI Professional, Oracle (2024)
