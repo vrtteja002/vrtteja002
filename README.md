@@ -27,7 +27,7 @@ Hello! I'm Ravi, an aspiring AI/ML Engineer passionate about pushing the boundar
 ## 📫 Let's Connect!
 
 - 📧 Email: vrtteja001@ksu.edu
-- 💼 LinkedIn: [Ravi Teja Vempati](https://www.linkedin.com/in/ravi-teja-vempati-801204169)
+- 💼 LinkedIn: [Ravi Teja Vempati](https://www.linkedin.com/in/ravi-v-801204169/)
 
 ---
 
