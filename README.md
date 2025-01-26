@@ -7,6 +7,7 @@ Hello! I'm Ravi, an aspiring AI/ML Engineer passionate about pushing the boundar
 - 🌱 Always learning and exploring new technologies in the AI space
   
 ## 🛠 Technologies I Use
+| | | | |
 
 |---|---|---|---|
 | ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white) | ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white) | ![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=C&logoColor=white) | ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white) |
