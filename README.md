@@ -8,7 +8,6 @@ Hello! I'm Ravi, an aspiring AI/ML Engineer passionate about pushing the boundar
   
 ## 🛠 Technologies I Use
 
-| | | | |
 |---|---|---|---|
 | ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white) | ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white) | ![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=C&logoColor=white) | ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white) |
 | ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white) | ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) | ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=Amazon-AWS&logoColor=white) | ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=for-the-badge&logo=Google-Cloud&logoColor=white) |
