@@ -1,21 +1,4 @@
-If the **tech logos are not showing**, it’s because **GitHub blocks some external image sources or badges with unsupported URLs**.
-To fix this, I’ll give you a **fully GitHub-safe version** — using ONLY **Shields.io badges**, which **always display correctly**.
-
-### ✅ Compatible with GitHub
-
-### ❌ No broken images
-
-### 🎨 Clean and attractive
-
----
-
-# 🌟 **Updated, GitHub-Safe Attractive README (No Broken Logos)**
-
-Copy–paste this directly into your `README.md` — all badges will work 100%.
-
----
-
-# 👋 Hi, I'm **Ravi Teja Vempati**
+# 👋 Hi, I'm **Ravi**
 
 ### **AI/ML Engineer | LLMs | Computer Vision | Generative AI | Multi-Agent Systems**
 
