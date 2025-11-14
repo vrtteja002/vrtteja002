@@ -26,8 +26,7 @@ Hello! I'm Ravi, an aspiring AI/ML Engineer passionate about pushing the boundar
 
 ## 📫 Let's Connect!
 
-- 📧 Email: vrtteja001@ksu.edu
-- 💼 LinkedIn: [Ravi V](https://www.linkedin.com/in/ravi-v-801204169/)
+- 📧 Email: vrtteja001@gmail.com
 
 ---
 
