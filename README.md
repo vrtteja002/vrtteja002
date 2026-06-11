@@ -22,7 +22,6 @@ Hello! I'm Ravi, an aspiring AI/ML Engineer passionate about pushing the boundar
 - OCI Generative-AI Professional, Oracle (2024)
 - Multi-Agent-Systems (CrewAI), DeepLearning.AI (2024)
 - LangChain for LLM Application Development, DeepLearning.AI (2024)
-- Machine Learning Using Python, Vellore Institute of Technology (2022)
 
 ## 📫 Let's Connect!
 
